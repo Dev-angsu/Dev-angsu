@@ -2,6 +2,25 @@
 <h1 align="center">Hi 👋, I'm Debangsu Sarkar</h1>
 <h3 align="center">An open minded 4th year CSE Undergraduate from VIT, Vellore</h3>
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h2> 👨🏽‍💻 About Me </h2>
+
+- 🎓 &nbsp; Studying Computer Science and Engineering at VIT Vellore, 4th year.
+
+- 👨🏽‍💻 &nbsp; Trying to see how I fit in the World
+
+<h2>🛠 Tech Stack</h2>
+
+- 💻 &nbsp; C | C++ | Java
+
+- 🌐 &nbsp; HTML | CSS | JavaScript 
+
+- 🛢 &nbsp; Node | Firebase | MongoDB | MySQL
+
+- 🔧 &nbsp; Git
+
+<br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-angsu&label=Profile%20views&color=0e75b6&style=flat" alt="dev-angsu" /> </p>
 
