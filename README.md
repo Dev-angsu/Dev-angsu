@@ -68,7 +68,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Dev-angsu&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/WahAkshat/github-readme-activity-graph">
+  <a href="https://github.com/Dev-angsu/github-readme-activity-graph">
     <img src="https://activity-graph.herokuapp.com/graph?username=Dev-angsu&theme=react-dark&hide_border=true">
   </a>
 </p>
