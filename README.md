@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7292B&background=0F0F1300&center=true&vCenter=true&width=1000&height=60&lines=Hi!!++I'm+Debangsu+Sarkar;Welcome+to+my+Portfolio" alt="Typing SVG" /></a>
 <!--  ###################################  -->
-<h3 align="center">An open minded Engineer working as DevOps Engineer in ICICI Lombard</h3>
+<h3 align="center">An open minded Engineer working as DevOps and Software Developer in ICICI Lombard</h3>
 <!--  ###################################  -->
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="330">
 <!--  ###################################  -->
@@ -12,15 +12,15 @@
 <!--  ###################################  -->
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Java | C | C++ 
+- 💻 &nbsp; Java | C# | Python 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Dotnet Views 
 
-- 🛢 &nbsp; Node | Firebase | MongoDB | MySQL
+- 🛢 &nbsp; Node | Redis | PostgreSQL | MySQL
 
-- 🔧 &nbsp; R | Git
+- 🔧 &nbsp; R | Git | Bash
   
-- ☁️ &nbsp; AWS | GCP 
+- ☁️ &nbsp; AWS | GCP | Jfrog 
 
 <br/><br/>
 <!--  ###################################  -->
