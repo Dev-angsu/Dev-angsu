@@ -1,6 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=F7292B&background=0F0F1300&center=true&vCenter=true&width=1000&height=60&lines=Hi!!++I'm+Debangsu+Sarkar;Welcome+to+my+Portfolio" alt="Typing SVG" /></a>
 <!--  ###################################  -->
-<h3 align="center">An open minded Engineer working as DevOps and Software Developer in ICICI Lombard</h3>
+<h3 align="center">An open minded Engineer working as DevOps and Software Developer </h3>
+<!--  ###################################  -->
+<h2> formerly in ICICI Lombard </h2>
 <!--  ###################################  -->
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="330">
 <!--  ###################################  -->
