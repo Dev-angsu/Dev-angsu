@@ -2,7 +2,7 @@
 <!--  ###################################  -->
 <h3 align="center">An open minded Engineer working as DevOps and Software Developer </h3>
 
-<h3> formerly in ICICI Lombard </h3>
+<h4 align="center"> formerly in ICICI Lombard </h4>
 <!--  ###################################  -->
 <img align='right' src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="330">
 <!--  ###################################  -->
